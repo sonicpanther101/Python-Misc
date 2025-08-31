@@ -14,6 +14,6 @@ listener.start()
 
 if __name__ == "__main__":
     while True:
-        if clicked == 10:
+        if clicked == 2:
             listener.stop()
             break
